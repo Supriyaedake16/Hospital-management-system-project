@@ -1,1 +1,1 @@
-# Trendify-Ecommerce-
+# Trendify-Ecommerce
